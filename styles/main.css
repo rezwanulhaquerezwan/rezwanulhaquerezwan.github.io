@@ -26,14 +26,14 @@ h4 {
         font-family: roboto;
         color: #008000;
         font-size: 1.4em;
-        content: "RG";   #any letter of your choice but for kaggle "ORCiD"
+        content: "RG";   #any letter of your choice but for kaggle "RG"
 }
 
 .fa-gs:before {
         font-family: roboto;
-        color: #008000;
+        color: #429bf4;
         font-size: 1.4em;
-        content: "G";   #any letter of your choice but for kaggle "ORCiD"
+        content: "G";   #any letter of your choice but for kaggle "G"
 }
 
 .container {
