@@ -22,6 +22,20 @@ h4 {
         content: "ORCiD";   #any letter of your choice but for kaggle "ORCiD"
 }
 
+.fa-rg:before {
+        font-family: roboto;
+        color: #008000;
+        font-size: 1.4em;
+        content: "RG";   #any letter of your choice but for kaggle "ORCiD"
+}
+
+.fa-gs:before {
+        font-family: roboto;
+        color: #008000;
+        font-size: 1.4em;
+        content: "G";   #any letter of your choice but for kaggle "ORCiD"
+}
+
 .container {
     background-color: #ffffff;
     padding-top: 12px;
