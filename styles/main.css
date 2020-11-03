@@ -15,6 +15,13 @@ h4 {
         content: "k";   #any letter of your choice but for kaggle "k"
 }
 
+.fa-orid:before {
+        font-family: roboto;
+        color: #429bf4;
+        font-size: 1.4em;
+        content: "ID";   #any letter of your choice but for kaggle "k"
+}
+
 .container {
     background-color: #ffffff;
     padding-top: 12px;
