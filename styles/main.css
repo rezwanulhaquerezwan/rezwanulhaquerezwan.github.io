@@ -17,7 +17,7 @@ h4 {
 
 .fa-orid:before {
         font-family: roboto;
-        color: #429bf4;
+        color: #A6CE39;
         font-size: 1.4em;
         content: "ID";   #any letter of your choice but for kaggle "k"
 }
